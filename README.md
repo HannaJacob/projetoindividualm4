@@ -2,4 +2,6 @@
 
 Este repositório contém um script em Python para gerar um relatório de progresso diário da equipe de desenvolvimento de software ao longo de uma semana. O relatório inclui métricas como horas trabalhadas, bugs corrigidos, tarefas concluídas e produtividade diária.
 
+## 📁 Acesso ao projeto
+Você pode acessar os arquivos do projeto clicando [aqui](link-repositorio).
 
